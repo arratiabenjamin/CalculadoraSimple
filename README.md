@@ -10,4 +10,4 @@ detecta el error y pide que vuelva a escribir lo que desea
 # Imagen demostración
 Todavía tiene algunos errores y tambien se le puede agregar varias cosas para que deje de ser una simple calculadora, si alguien quiere avanzar con este proyecto me sentiria genial porque alguien pudo crear algo mejor con lo que yo pude crear.
 
-![Screenshot](CalculadoraBasica.png)
+![Screenshot](CalculadoraSimple.png)
