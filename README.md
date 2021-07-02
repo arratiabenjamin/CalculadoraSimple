@@ -1,5 +1,5 @@
 # CalculadoraSimple
-Calculadora que da la opcion de elegir entre:
+Calculadora que da opcion de elegir entre:
 °Suma
 °Resta
 °Multiplicación
